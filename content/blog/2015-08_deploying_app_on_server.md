@@ -4,7 +4,7 @@ kind: article
 publish: true
 title: "Deploying app on server"
 authors:
-- kasia kasprzak
+- kasia_kasprzak
 - kasia
 tags:
 - technology
